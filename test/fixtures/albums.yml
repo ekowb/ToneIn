@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  image_url: MyString
+  songs: MyString
+  release_date: 2019-07-24 14:15:43
+  genre_id: 1
+  color: MyString
+  like_count: 1
+
+two:
+  title: MyString
+  image_url: MyString
+  songs: MyString
+  release_date: 2019-07-24 14:15:43
+  genre_id: 1
+  color: MyString
+  like_count: 1
